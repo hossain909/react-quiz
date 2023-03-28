@@ -7,8 +7,6 @@ export default function Videos() {
     <div className={classes.videos}>
       <Video />
       <Video />
-      <Video />
-      <Video />
     </div>
   );
 }
