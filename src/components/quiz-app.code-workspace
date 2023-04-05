@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "quiz-app",
+			"path": "../.."
+		}
+	],
+  "settings": {
+      "typescript.suggest.paths": false,
+      "javascript.suggest.paths": false,
+  }
+}
